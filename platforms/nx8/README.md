@@ -22,7 +22,7 @@ sudo ./flash.sh -k secure-os --image $BAO_DEMOS_WRKDIR_PLAT/tos.img\
     --bup jetson-orin-nano-devkit mmcblk0p1
 ```
 
-sudo ./flash.sh -k secure-os --image /home/haataine/tii/bao/bao-demos/wrkdir/imgs/nx16tos.img --bup jetson-orin-nano-devkit mmcblk0p1
+sudo ./flash.sh -k secure-os --image /home/haataine/tii/bao/bao-demos/wrkdir/imgs/nx8/tos.img --bup jetson-orin-nano-devkit mmcblk0p1
 
 If all goes well you should see the message:
 
